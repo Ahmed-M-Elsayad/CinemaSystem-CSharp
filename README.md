@@ -8,7 +8,7 @@
 [![SOLID](https://img.shields.io/badge/Principles-SOLID-orange)](#المبادئ-وأنماط-التصميم)
 [![Tests](https://img.shields.io/badge/Tests-56%20passing-success)](#الاختبارات)
 [![Original C++](https://img.shields.io/badge/Original-C%2B%2B20-blue)](https://github.com/Ahmed-M-Elsayad/CinemaSystem)
-[![License](https://img.shields.io/badge/License-Educational-yellow)](LICENSE)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm--Noncommercial-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 ---
 
@@ -400,12 +400,34 @@ day month year
 
 ## الترخيص
 
-هذا المشروع مرخّص تحت **Educational Use License**. راجع ملف [LICENSE](LICENSE) للتفاصيل الكاملة.
+هذا المشروع مرخّص تحت **PolyForm Noncommercial License 1.0.0**.
 
-- ✅ الاستخدام التعليمي والأكاديمي
-- ❌ الاستخدام التجاري (بدون إذن كتابي)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
-> هذا ترخيص مخصص (Source-Available) وليس ترخيصًا معتمدًا من OSI، لذلك قد يعرضه GitHub باسم "View License".
+### ✅ الاستخدامات المسموحة (بدون إذن)
+
+- الاستخدام الشخصي والتعلم الذاتي
+- الأبحاث الأكاديمية والمشاريع التعليمية
+- التجارب غير التجارية
+- العرض في Portfolio أو للتقديم على وظائف
+- المنظمات التعليمية والخيرية والحكومية
+
+### ❌ الاستخدامات الممنوعة (بدون إذن كتابي)
+
+- أي استخدام تجاري أو لتحقيق ربح
+- البيع أو الترخيص من البُعد
+- الدمج في منتج أو خدمة مدفوعة
+- تقديم المشروع كخدمة مدفوعة
+- استخدامه في عمل استشاري أو Freelance
+
+### 💼 الترخيص التجاري
+
+لاستخدام تجاري، تواصل مع:
+- **Email**: a.elsuad08@gmail.com
+- **GitHub**: [@Ahmed-M-Elsayad](https://github.com/Ahmed-M-Elsayad)
+
+> **ملاحظة**: PolyForm Noncommercial هو ترخيص **Source-Available** معترف به من قبل [PolyForm Project](https://polyformproject.org/).
+> GitHub يعرضه باسمه الرسمي مع معرف SPDX: `PolyForm-Noncommercial-1.0.0`.
 
 ---
 
