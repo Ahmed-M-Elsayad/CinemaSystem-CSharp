@@ -1,246 +1,140 @@
-Educational Use License
-========================
-Version 1.2
+# PolyForm Noncommercial License 1.0.0
 
-Copyright (c) 2026 Ahmed Mohamed Ahmed Saber
-             and the CinemaSystem C++ Team:
-             - Reda Elkplawy (@Redaelkplawy)
-             - Omar (@omaralqblawy)
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-All rights reserved, except as expressly granted in this License.
+Required Notice: Copyright (c) 2026 Ahmed Mohamed Ahmed Saber
+                 and the CinemaSystem C++ Team:
+                 - Reda Elkplawy (@Redaelkplawy)
+                 - Omar (@omaralqblawy)
 
 Project: Cinema Management System (C# / .NET 10)
 Original C++ Version: https://github.com/Ahmed-M-Elsayad/CinemaSystem
 Current C# Version: https://github.com/Ahmed-M-Elsayad/CinemaSystem-CSharp
 
--------------------------------------------------------------------------------
-1. GRANT OF LICENSE
--------------------------------------------------------------------------------
+## Acceptance
 
-Permission is hereby granted, free of charge, to any person (including any
-student, educator, researcher, hobbyist, or educational institution) obtaining
-a copy of this software and associated documentation files (the "Software"),
-to use, copy, modify, merge, and distribute the Software, solely for the
-purposes listed in Section 2 and subject to the conditions below.
+In order to get any license under these terms, you must agree
+to them as both strict obligations and conditions to all
+your licenses.
 
--------------------------------------------------------------------------------
-2. PERMITTED USE
--------------------------------------------------------------------------------
+## Copyright License
 
-The Software may be used ONLY for:
+The licensor grants you a copyright license for the
+software to do everything you might do with the software
+that would otherwise infringe the licensor's copyright
+in it for any permitted purpose.  However, you may
+only distribute the software according to [Distribution
+License](#distribution-license) and make changes or new works
+based on the software according to [Changes and New Works
+License](#changes-and-new-works-license).
 
-  (a) Personal learning and self-study
+## Distribution License
 
-  (b) Academic coursework and educational projects
+The licensor grants you an additional copyright license
+to distribute copies of the software.  Your license
+to distribute covers distributing the software with
+changes and new works permitted by [Changes and New Works
+License](#changes-and-new-works-license).
 
-  (c) Educational research and non-commercial experimentation
+## Notices
 
-  (d) Teaching, tutorials, and educational demonstrations, PROVIDED that
-      such use is NOT part of any paid course, monetized platform, or
-      revenue-generating service.
+You must ensure that anyone who gets a copy of any part of
+the software from you also gets a copy of these terms or the
+URL for them above, as well as copies of any plain-text lines
+beginning with `Required Notice:` that the licensor provided
+with the software.  For example:
 
-      NOTE: Publishing educational content that features this Software
-      on monetized platforms (e.g., YouTube with ads, Udemy, Skillshare,
-      Patreon, paid bootcamps) requires explicit written permission from
-      the author, and may require a separate commercial license.
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
 
-  (e) Portfolio and job-application purposes, including demonstrating the
-      Software to potential employers, recruiters, or clients for skill
-      evaluation. This does NOT constitute commercial use, provided no
-      fee is charged for access to the Software itself.
+## Changes and New Works License
 
--------------------------------------------------------------------------------
-3. PROHIBITED USE
--------------------------------------------------------------------------------
+The licensor grants you an additional copyright license to
+make changes and new works based on the software for any
+permitted purpose.
 
-The Software may NOT be used for:
+## Patent License
 
-  (a) Any commercial purpose or revenue-generating activity
+The licensor grants you a patent license for the software that
+covers patent claims the licensor can license, or becomes able
+to license, that you would infringe by using the software.
 
-  (b) Selling, sublicensing, or renting the Software or its derivatives
+## Noncommercial Purposes
 
-  (c) Including the Software in a commercial product or paid service
+Any noncommercial purpose is a permitted purpose.
 
-  (d) Any use that violates applicable laws or regulations
+## Personal Uses
 
-  (e) Removing or altering this license or copyright notices
+Personal use for research, experiment, and testing for
+the benefit of public knowledge, personal study, private
+entertainment, hobby projects, amateur pursuits, or religious
+observance, without any anticipated commercial application,
+is use for a permitted purpose.
 
-  (f) Using the Software as part of paid consulting, freelance work, or
-      any client-facing deliverable, unless a separate commercial license
-      has been obtained
+## Noncommercial Organizations
 
--------------------------------------------------------------------------------
-4. CONDITIONS
--------------------------------------------------------------------------------
+Use by any charitable organization, educational institution,
+public research organization, public safety or health
+organization, environmental protection organization,
+or government institution is use for a permitted purpose
+regardless of the source of funding or obligations resulting
+from the funding.
 
-Any use, copy, modification, or distribution of the Software must:
+## Fair Use
 
-  (a) Include this complete license and copyright notice
+You may have "fair use" rights for the software under the
+law. These terms do not limit them.
 
-  (b) Clearly credit the original author(s):
-      Ahmed Mohamed Ahmed Saber (GitHub: @Ahmed-M-Elsayad)
+## No Other Rights
 
-  (c) Preserve any copyright, patent, or trademark notices
+These terms do not allow you to sublicense or transfer any of
+your licenses to anyone else, or prevent the licensor from
+granting licenses to anyone else.  These terms do not imply
+any other licenses.
 
-  (d) State any modifications made to the original Software
+## Patent Defense
 
--------------------------------------------------------------------------------
-5. ATTRIBUTION
--------------------------------------------------------------------------------
+If you make any written claim that the software infringes or
+contributes to infringement of any patent, your patent license
+for the software granted under these terms ends immediately. If
+your company makes such a claim, your patent license ends
+immediately for work on behalf of your company.
 
-If you use, modify, or distribute this Software, you must provide clear
-attribution in the following format:
+## Violations
 
-  "Based on Cinema Management System by Ahmed Mohamed Ahmed Saber
-   and the CinemaSystem C++ Team
-   (https://github.com/Ahmed-M-Elsayad/CinemaSystem-CSharp)"
+The first time you are notified in writing that you have
+violated any of these terms, or done anything with the software
+not covered by your licenses, your licenses can nonetheless
+continue if you come into full compliance with these terms,
+and take practical steps to correct past violations, within
+32 days of receiving notice.  Otherwise, all your licenses
+end immediately.
 
--------------------------------------------------------------------------------
-6. CONTRIBUTIONS
--------------------------------------------------------------------------------
+## No Liability
 
-Any contributions made to this project (via Pull Requests, Issues, or other
-means) shall be considered as licensed under the same terms as this License,
-unless explicitly stated otherwise by the contributor. By contributing, you
-confirm that you have the right to submit your contribution under these terms.
+***As far as the law allows, the software comes as is, without
+any warranty or condition, and the licensor will not be liable
+to you for any damages arising out of these terms or the use
+or nature of the software, under any kind of legal claim.***
 
--------------------------------------------------------------------------------
-7. THIRD-PARTY COMPONENTS
--------------------------------------------------------------------------------
+## Definitions
 
-This Software uses the following third-party packages, each governed by
-its own license:
+The **licensor** is the individual or entity offering these
+terms, and the **software** is the software the licensor makes
+available under these terms.
 
-  Direct dependencies (Cinema.ConsoleUI):
-  - .NET 10 (MIT License - Microsoft Corporation)
-  - Microsoft.Extensions.Hosting (MIT License - Microsoft Corporation)
-  - Microsoft.Extensions.Configuration.Json (MIT License - Microsoft Corporation)
-  - Microsoft.Extensions.DependencyInjection (MIT License - Microsoft Corporation)
+**You** refers to the individual or entity agreeing to these
+terms.
 
-  Development/Test dependencies (Cinema.Tests):
-  - xUnit (Apache License 2.0)
-  - Microsoft.NET.Test.Sdk (MIT License - Microsoft Corporation)
-  - coverlet.collector (MIT License)
+**Your company** is any legal entity, sole proprietorship,
+or other kind of organization that you work for, plus all
+organizations that have control over, are under the control of,
+or are under common control with that organization.  **Control**
+means ownership of substantially all the assets of an entity,
+or the power to direct its management and policies by vote,
+contract, or otherwise.  Control can be direct or indirect.
 
-  Note on NuGet packages: The above list reflects the direct package
-  references in the project files at the time of writing. Transitive
-  dependencies are governed by their respective licenses as distributed
-  with the .NET runtime and NuGet packages. This License does not apply
-  to any third-party packages.
+**Your licenses** are all the licenses granted to you for the
+software under these terms.
 
-  IMPORTANT: The "System.Text.Json" package may appear in older versions
-  of the project but is NOT required in .NET 10 (built into the runtime).
-
--------------------------------------------------------------------------------
-8. NO WARRANTY
--------------------------------------------------------------------------------
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
--------------------------------------------------------------------------------
-9. LIMITATION OF LIABILITY
--------------------------------------------------------------------------------
-
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT,
-OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES
-FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS
-INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR
-INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
--------------------------------------------------------------------------------
-10. TERMINATION
--------------------------------------------------------------------------------
-
-This license is effective until terminated. Your rights under this license
-will terminate automatically without notice if you fail to comply with any
-of its terms. Upon termination, you must cease all use of the Software and
-destroy all copies in your possession.
-
--------------------------------------------------------------------------------
-11. COMMERCIAL LICENSING
--------------------------------------------------------------------------------
-
-For commercial use, licensing inquiries, or any questions regarding this
-license, please contact:
-
-  Ahmed Mohamed Ahmed Saber
-  Email: a.elsuad08@gmail.com
-  GitHub: https://github.com/Ahmed-M-Elsayad
-
--------------------------------------------------------------------------------
-12. GOVERNING LAW AND JURISDICTION
--------------------------------------------------------------------------------
-
-This License shall be governed by and construed in accordance with the laws
-of the Arab Republic of Egypt, without regard to its conflict of law
-provisions. The courts of the Arab Republic of Egypt shall have exclusive
-jurisdiction over any disputes arising out of or in connection with this
-License.
-
--------------------------------------------------------------------------------
-13. SEVERABILITY
--------------------------------------------------------------------------------
-
-If any provision of this License is held to be unenforceable or invalid,
-the remaining provisions shall remain in full force and effect.
-
--------------------------------------------------------------------------------
-14. ORIGINAL WORK ATTRIBUTION
--------------------------------------------------------------------------------
-
-This project (CinemaSystem-CSharp) is a complete rewrite in C# and .NET 10
-based on the original CinemaSystem project written in C++.
-
-The C# implementation introduces:
-  - A new architecture (Clean Architecture with 5 layers)
-  - New design patterns (Repository, Strategy, Facade, Adapter)
-  - New domain modeling (Rich Domain Model with Encapsulation)
-  - New dependency management (Dependency Injection)
-
-The C++ version served as:
-  - Functional inspiration
-  - Domain reference (business rules, entities, workflows)
-  - Team collaboration foundation
-
-All C# code, architecture, file structure, naming conventions, comments,
-and documentation in this repository are original work by the primary author,
-unless otherwise credited.
-
--------------------------------------------------------------------------------
-15. TEAM CREDIT
--------------------------------------------------------------------------------
-
-This project builds upon the foundation established by the CinemaSystem
-C++ Team:
-
-  - Ahmed Mohamed Ahmed Saber (@Ahmed-M-Elsayad) — Team Leader & Architect
-  - Reda Elkplawy (@Redaelkplawy) — Developer
-  - Omar (@omaralqblawy) — Developer
-
-Their collective work on the C++ version provided the domain knowledge,
-feature set, and business logic that informed this C# rewrite.
-
-This acknowledgment does not grant any additional rights beyond those
-explicitly stated in this License. Commercial use of the C++ version
-remains subject to the terms of its own repository license.
-
--------------------------------------------------------------------------------
-
-By using, copying, or modifying this Software, you acknowledge that you
-have read, understood, and agree to be bound by the terms of this License.
-
--------------------------------------------------------------------------------
-
-Last Updated: October 2026
-Version: 1.2
-
-Disclaimer: This license is provided as a good-faith template for an
-educational project. It is not a substitute for professional legal advice.
-For commercial use or legal disputes, consult a qualified attorney.
+**Use** means anything you do with the software requiring one
+of your licenses.
